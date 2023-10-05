@@ -1,0 +1,6 @@
+name = "wrangler-testing"
+main = "src/index.ts"
+compatibility_date = "2023-10-05"
+
+[triggers]
+crons = [ "1 * * * *" ]
